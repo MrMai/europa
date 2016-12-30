@@ -1,0 +1,13 @@
+Welcome to guest@<unknown>
+Booting...
+Sending session start
+Timeout in 3 hours
+Connection arrived
+FTLSSH Established
+----------------------------
+***** Welcome to E-239 *****
+********** HAB 1 ***********
+----------------------------
+Type "$help" for command list
+Warning: Power source failure iminent. Failure in (7 minus past days) days.
+

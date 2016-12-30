@@ -1,0 +1,3 @@
+"help" command list. Remember to add a "$" to every command!
+ls - list all files and directories in current location
+
